@@ -1,0 +1,15 @@
+{
+  "name": "node-messagebird-autosurvey-example",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "mongo-mock": "^3.1.0",
+    "dotenv": "^6.0.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
